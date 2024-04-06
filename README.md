@@ -1,6 +1,6 @@
 <h2>I am Nour Alsayed</h2>
 <p>I am designer and devdloper web site</p> 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img 
 
 
 
