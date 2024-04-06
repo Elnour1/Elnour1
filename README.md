@@ -5,9 +5,6 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/Elnour1=Follow&style=social)
-![Waka Readme](https://github.com/Elnour1/Elnour1/workflows/Waka%20Readme/badge.svg)
-
 
 
 
