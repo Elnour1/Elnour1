@@ -3,9 +3,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Elnour](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/nour-elsayed-55543a1ab/)
-![GitHub followers](https://img.shields.io/github/followers/Elnour1=Follow&style=social)
-
 
 ### 📫 Like to meet me?
 
