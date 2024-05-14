@@ -7,7 +7,7 @@
 
 
 
-### 📫 Like to meet me?
+### 📫 You like to create the web?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
