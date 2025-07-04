@@ -1,7 +1,7 @@
 <h2>I am Nour Elsayed</h2>
 <p>I am designer and devdloper web site</p> 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-https://snappy.appypie.com/builder/simulator-both
+my cv : https://snappy.appypie.com/builder/simulator-both
 
 
 
